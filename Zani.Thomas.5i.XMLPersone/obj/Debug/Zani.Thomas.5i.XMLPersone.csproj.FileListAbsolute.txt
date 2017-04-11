@@ -1,0 +1,16 @@
+C:\Users\Thomas\Desktop\scuola\tpi\Zani.Thomas.5i.XMLPersone\Zani.Thomas.5i.XMLPersone\bin\Debug\Zani.Thomas.5i.XMLPersone.exe.config
+C:\Users\Thomas\Desktop\scuola\tpi\Zani.Thomas.5i.XMLPersone\Zani.Thomas.5i.XMLPersone\bin\Debug\Zani.Thomas.5i.XMLPersone.exe
+C:\Users\Thomas\Desktop\scuola\tpi\Zani.Thomas.5i.XMLPersone\Zani.Thomas.5i.XMLPersone\bin\Debug\Zani.Thomas.5i.XMLPersone.pdb
+C:\Users\Thomas\Desktop\scuola\tpi\Zani.Thomas.5i.XMLPersone\Zani.Thomas.5i.XMLPersone\obj\Debug\Zani.Thomas.5i.XMLPersone.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\scuola\tpi\Zani.Thomas.5i.XMLPersone\Zani.Thomas.5i.XMLPersone\obj\Debug\MainWindow.g.cs
+C:\Users\Thomas\Desktop\scuola\tpi\Zani.Thomas.5i.XMLPersone\Zani.Thomas.5i.XMLPersone\obj\Debug\App.g.cs
+C:\Users\Thomas\Desktop\scuola\tpi\Zani.Thomas.5i.XMLPersone\Zani.Thomas.5i.XMLPersone\obj\Debug\Zani.Thomas.5i.XMLPersone_MarkupCompile.cache
+C:\Users\Thomas\Desktop\scuola\tpi\Zani.Thomas.5i.XMLPersone\Zani.Thomas.5i.XMLPersone\obj\Debug\Zani.Thomas.5i.XMLPersone_MarkupCompile.lref
+C:\Users\Thomas\Desktop\scuola\tpi\Zani.Thomas.5i.XMLPersone\Zani.Thomas.5i.XMLPersone\obj\Debug\MainWindow.baml
+C:\Users\Thomas\Desktop\scuola\tpi\Zani.Thomas.5i.XMLPersone\Zani.Thomas.5i.XMLPersone\obj\Debug\Zani.Thomas.5i.XMLPersone.g.resources
+C:\Users\Thomas\Desktop\scuola\tpi\Zani.Thomas.5i.XMLPersone\Zani.Thomas.5i.XMLPersone\obj\Debug\Zani.Thomas._5i.XMLPersone.Properties.Resources.resources
+C:\Users\Thomas\Desktop\scuola\tpi\Zani.Thomas.5i.XMLPersone\Zani.Thomas.5i.XMLPersone\obj\Debug\Zani.Thomas.5i.XMLPersone.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\scuola\tpi\Zani.Thomas.5i.XMLPersone\Zani.Thomas.5i.XMLPersone\obj\Debug\Zani.Thomas.5i.XMLPersone.exe
+C:\Users\Thomas\Desktop\scuola\tpi\Zani.Thomas.5i.XMLPersone\Zani.Thomas.5i.XMLPersone\obj\Debug\Zani.Thomas.5i.XMLPersone.pdb
+C:\Users\Thomas\Desktop\scuola\tpi\Zani.Thomas.5i.XMLPersone\Zani.Thomas.5i.XMLPersone\bin\Debug\Persone.xml
+C:\Users\Thomas\Desktop\scuola\tpi\Zani.Thomas.5i.XMLPersone\Zani.Thomas.5i.XMLPersone\obj\Debug\Zani.Thomas.5i.XMLPersone_Content.g.cs
